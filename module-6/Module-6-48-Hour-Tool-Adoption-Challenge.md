@@ -25,12 +25,9 @@ Select a tool or app you have **never used before**. It should be:
 
 **Need ideas?** Ask your instructor for a list of suggested tools, or propose your own for approval before starting the clock.
 
-**Tool I am using:** _______________________________________
-
-**Date/Time I am starting my 48 hours:** _______________________________________
-
-**Date/Time my 48 hours ends:** _______________________________________
-
+Tool I am using: Claude Code and Google Gemini
+Date/Time I am starting my 48 hours: September 25, 2026 at 9:00 AM
+Date/Time my 48 hours ends: September 26, 2026 at 9:00 AM
 ---
 
 ## Step 2 — Set Your Goal
@@ -38,11 +35,10 @@ Select a tool or app you have **never used before**. It should be:
 Before you start learning, decide what "success" looks like. Choose **one** of the following as your target for the end of the 48 hours:
 
 - [ ] **Complete a small task** using the tool (e.g., generate a short project, produce a piece of content, automate a simple process)
-- [ ] **Teach a classmate** how to use the core features of the tool (in person, by video, or in writing)
 
 Write a one-sentence description of your specific goal:
 
-> [Your goal here]
+> My goal was to use Claude Code in the terminal to code a custom landing page for my business.
 
 ---
 
@@ -60,24 +56,25 @@ For each entry, note:
 - **What helped** (a tutorial, a friend, trial and error, reading the FAQ, something else?)
 - **How you felt** (be honest — overwhelmed, curious, bored, excited, embarrassed, etc.)
 
-**Journal Entry 1** — *(shortly after starting)*
-- What I tried:
-- What was confusing or frustrating:
-- What helped:
-- How I felt:
-
-**Journal Entry 2** — *(partway through)*
-- What I tried:
-- What was confusing or frustrating:
-- What helped:
-- How I felt:
-
-**Journal Entry 3** — *(near the end)*
-- What I tried:
-- What was confusing or frustrating:
-- What helped:
-- How I felt:
-
+Journal Entry 1 — (shortly after starting)
+What I tried: I installed Claude Code via terminal and set up a new project file for Traction Lab.   
+What was confusing or frustrating: Authenticating Claude Code through the command line was new to me, and prompting through the terminal felt intimidating compared to standard web based AI tools.   
+What helped: Reading through the terminal setup instructions and running claude
+How I felt: Curious but hesitant about executing terminal commands and making sure I didn't overwrite project files.   
+Journal Entry 2 — (partway through)
+What I tried: I prompted Claude Code to construct an aesthetic and trendy e-commerce landing page for Traction Lab studio grip socks, complete photos of items, preorder option, and a logo.   
+JPG
+What was confusing or frustrating: Claude Code initially chose styling details that didn't align with Traction Lab's sleek brand identity This required me to refine my prompts to guide the aesthetic.   
+JPG
+What helped: Trial and error, opening files in my browser to inspect design updates in real time, and giving specific visual feedback. LOTS of feedback.   
+JPG
+How I felt: Excited as the website structure came together and impressed by how quickly Claude Code executed code updates across multiple files. Stressful too because I had to ask to redo numerous things.  
+JPG
+Journal Entry 3 — (near the end)
+What I tried: I used Claude Code to to polish mobile responsiveness, add switch effects on product cards, and polish the overall look of the items.   
+What was confusing or frustrating: Fixing a responsive issue where product images were overflowing on smaller screens; Claude Code edited the wrong selector until I pointed out the file.   
+What helped: Specifying explicit file paths in my prompts, and letting Claude Code test code changes directly.
+How I felt: Accomplished and confident. The initial intimidation of using a terminal completely wore off once I had afully functional brand page running.   
 *(Add more entries if you'd like — more honest detail is better than fewer, vague ones.)*
 
 ---
@@ -86,14 +83,9 @@ For each entry, note:
 
 By the end of the 48 hours, complete the goal you set in Step 2.
 
-**If you completed a small task:**
-- Briefly describe what you made or did:
-- Attach or link your finished task (screenshot, file, link, etc.) if applicable:
-
-**If you taught a classmate:**
-- Who did you teach, and how (in person, video call, written guide)?
-- What was one thing they understood quickly, and one thing that was harder to explain?
-
+If you completed a small task:
+I built a complete landing page for my grip sock brand, Traction Lab, using Claude Code terminal commands to generate the vision I had in my mind to life.
+https://claude.ai/artifact/QHn2eAJy31Uss95MyDfUHM
 ---
 
 ## Step 5 — Final Reflection (Write this after your 48 hours are up)
@@ -107,7 +99,11 @@ Write a reflection of **8–12 sentences** responding to the following:
 - How might this same approach help you the next time a new tool, app, or AI system shows up unexpectedly at school or work?
 
 **My Reflection:**
-[Your response here]
+I found it hard to get into using Claude Code because I was used to chatting with AIs but actually going into a terminal and using prompts felt foreign. I had a lot of trouble knowing what prompts to use to allow the AI agent to change files within my repos. It took some trial and error but once I started using Claude Code I got the hang of it. Being able to prompt small chunks of my website was a huge help. Whether its the homepage of the website, my products features cards or editing for mobile responsiveness.
+
+Once I could see a nice clean website being made in a matter of minutes I felt confident in my abilities. I learned that you can use terminal AI's to your advantage when trying to build things faster and more efficiently.
+
+When put on the spot I learn quicker by jumping in and starting to build. So next time I am presented with an AI that can help me write code I will jump right in.
 
 ---
 
